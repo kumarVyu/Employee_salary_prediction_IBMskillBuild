@@ -1,0 +1,1001 @@
+Company,Job Title,Degree,Years of Experience,Location,Salary
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
+Google,Software Engineer,Bachelors,1,New York,120000
+Facebook,Data Scientist,Masters,2,San Francisco,135000
+Amazon,Product Manager,PhD,3,Seattle,150000
+Apple,DevOps Engineer,Bachelors,4,Austin,115000
+Netflix,Analyst,Masters,5,Boston,125000
+Google,Software Engineer,Bachelors,1,New York,130000
+Facebook,Data Scientist,Masters,2,San Francisco,140000
+Amazon,Product Manager,PhD,3,Seattle,160000
+Apple,DevOps Engineer,Bachelors,4,Austin,110000
+Netflix,Analyst,Masters,5,Boston,123000
+Google,Software Engineer,Bachelors,1,New York,128000
+Facebook,Data Scientist,Masters,2,San Francisco,145000
+Amazon,Product Manager,PhD,3,Seattle,155000
+Apple,DevOps Engineer,Bachelors,4,Austin,117000
+Netflix,Analyst,Masters,5,Boston,129000
+Google,Software Engineer,Bachelors,1,New York,133000
+Facebook,Data Scientist,Masters,2,San Francisco,142000
+Amazon,Product Manager,PhD,3,Seattle,158000
+Apple,DevOps Engineer,Bachelors,4,Austin,112000
+Netflix,Analyst,Masters,5,Boston,126000
+Google,Software Engineer,Bachelors,1,New York,125000
+Facebook,Data Scientist,Masters,2,San Francisco,138000
+Amazon,Product Manager,PhD,3,Seattle,152000
+Apple,DevOps Engineer,Bachelors,4,Austin,113000
+Netflix,Analyst,Masters,5,Boston,127000
